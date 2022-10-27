@@ -4,6 +4,7 @@ export default function FoodItem() {
   return (
     <View>
       <Text>Food Item</Text>
+      <Text>Hello</Text>
     </View>
   );
 }
